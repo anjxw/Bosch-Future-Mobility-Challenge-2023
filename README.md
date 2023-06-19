@@ -1,6 +1,6 @@
 # Bosch-Future-Mobility-Challenge-2023
 
-# BFMC-2021-Reports
+### BFMC-2021-Reports
 This repository contains all the reports of team The Wheel submitted during the Bosch Future Mobility Challenge 2022/2023.
 
 ### Technical Reports
